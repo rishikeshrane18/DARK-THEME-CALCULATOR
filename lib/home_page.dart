@@ -84,7 +84,7 @@ class _HomePageState extends State<HomePage> {
                   onPressed: doSub),
             ],
           ),
-          new Padding(padding: const EdgeInsets.only(top: 20.00)),
+          new Padding(padding: const EdgeInsets.only(top: 20.01)),
           new Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children:<Widget> [
